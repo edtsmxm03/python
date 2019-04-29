@@ -3,7 +3,7 @@
 
 ## Avaluar Expressions
 
-###Operadors:
+### Operadors:
 
  * expressió matemàtica: 3+4
  * operador: +
@@ -13,7 +13,7 @@
 
 
 
-###Tipus d'operadors:
+### Tipus d'operadors:
 
  * aritmètics o matemàtics
  * relacionals
