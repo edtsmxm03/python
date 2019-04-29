@@ -84,9 +84,30 @@ Exercicis
  nom="pere"
 
 
+Exemples numèrics
+
   * d'edat laboral [18,65]
   * no és d'edat laboral
   * edat no és ni 5 ni 15
-  * edat no és ni 
+  * edat és 34 o 83
+  * edat no és ni 5 ni 20 ni 47
+  * edat és 12 o 56 o 67
+
+  * edat és entre 20 i 30
+  * edat no és entre 40 i 60
+
+  * edat és entre 20 i 30 o entre 50 i 70.
+
+
+Exemples caràcters:
+
+  * nom és pere o marta
+  * no no és ni pere ni marta
+  * el nom és de la m en dedavant
+  * el nom és entre la d i la q
+  * el nom és entre marta i pere
+
+  * el nom no és ni pere ni marta ni ramón
+  * el nom és o pere o marta o ramón
 
 
